@@ -63,14 +63,18 @@ main:
     alt: House and key.
     image: /img/real-estate1.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: Mary Sue
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
+      Lorem ipsum dolor sit amet, consectetur adipiscing elite, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Out of enim ad minim
+      veniam, quis nostrud exercise ullamco laboris nisi ut aliquip ex ea
+      commodo consequat. velit esse cillum dolore eu fugiat nulla pariatur.
+  - author: John Smith
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      Lorem ipsum dolor sit amet, consectetur adipiscing elite, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Out of enim ad minim
+      veniam, quis nostrud exercise ullamco laboris nisi ut aliquip ex ea
+      commodo consequat. velit esse cillum dolore eu fugiat nulla pariatur.
 full_image: /img/home1.jpg
 pricing:
   heading: Pricing
