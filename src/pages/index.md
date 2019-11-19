@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Real Estate Solutions
-image: /img/chemex.jpg
+image: /img/houses123.jpg
 heading: Real Estate Made Easy
 subheading: Home buying and selling made easy.
 mainpitch:
@@ -17,25 +17,25 @@ description: >-
   nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 intro:
   blurbs:
-    - image: /img/houses-512x512.png
+    - image: /img/houses1234.jpg
       text: >-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
         veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
         commodo consequat.
-    - image: /img/houses-512x512.png
+    - image: /img/houses123456.jpg
       text: >-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
         veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
         commodo consequat.
-    - image: /img/houses-512x512.png
+    - image: /img/islandhouses.jpg
       text: >-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
         veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
         commodo consequat.
-    - image: /img/houses-512x512.png
+    - image: /img/threehouses.jpg
       text: >
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
