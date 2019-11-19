@@ -1,7 +1,7 @@
 ---
 templateKey: product-page
 title: Our Listings
-image: /img/chemex.jpg
+image: /img/houses123.jpg
 heading: We're here to help you buy or sell your next home.
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
@@ -11,28 +11,28 @@ description: >-
   quam adipiscing vitae proin.
 intro:
   blurbs:
-    - image: /img/houses-512x512.png
+    - image: /img/fallingwater.jpg
       text: >-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua. Ac felis donec et
         odio. Eget egestas purus viverra accumsan in nisl. Elit duis tristique
         sollicitudin nibh sit. Facilisi nullam vehicula ipsum a. Euismod
         elementum nisi quis eleifend quam adipiscing vitae proin.
-    - image: /img/houses-512x512.png
+    - image: /img/mansion1.jpg
       text: >-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua. Ac felis donec et
         odio. Eget egestas purus viverra accumsan in nisl. Elit duis tristique
         sollicitudin nibh sit. Facilisi nullam vehicula ipsum a. Euismod
         elementum nisi quis eleifend quam adipiscing vitae proin.
-    - image: /img/houses-512x512.png
+    - image: /img/mansion2.jpg
       text: >-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua. Ac felis donec et
         odio. Eget egestas purus viverra accumsan in nisl. Elit duis tristique
         sollicitudin nibh sit. Facilisi nullam vehicula ipsum a. Euismod
         elementum nisi quis eleifend quam adipiscing vitae proin.
-    - image: /img/houses-512x512.png
+    - image: /img/4homes.jpg
       text: >-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua. Ac felis donec et
