@@ -11,28 +11,28 @@ description: >-
   quam adipiscing vitae proin.
 intro:
   blurbs:
-    - image: /img/240by190.png
+    - image: /img/houses-512x512.png
       text: >-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua. Ac felis donec et
         odio. Eget egestas purus viverra accumsan in nisl. Elit duis tristique
         sollicitudin nibh sit. Facilisi nullam vehicula ipsum a. Euismod
         elementum nisi quis eleifend quam adipiscing vitae proin.
-    - image: /img/240by190.png
+    - image: /img/houses-512x512.png
       text: >-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua. Ac felis donec et
         odio. Eget egestas purus viverra accumsan in nisl. Elit duis tristique
         sollicitudin nibh sit. Facilisi nullam vehicula ipsum a. Euismod
         elementum nisi quis eleifend quam adipiscing vitae proin.
-    - image: /img/240by190.png
+    - image: /img/houses-512x512.png
       text: >-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua. Ac felis donec et
         odio. Eget egestas purus viverra accumsan in nisl. Elit duis tristique
         sollicitudin nibh sit. Facilisi nullam vehicula ipsum a. Euismod
         elementum nisi quis eleifend quam adipiscing vitae proin.
-    - image: /img/240by190.png
+    - image: /img/houses-512x512.png
       text: >-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua. Ac felis donec et
