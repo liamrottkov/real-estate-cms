@@ -61,7 +61,7 @@ main:
     alt: A green cup of a coffee on a wooden table
     image: /img/products-grid2.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: houses
+    image: /img/houses123.jpg
 ---
 
