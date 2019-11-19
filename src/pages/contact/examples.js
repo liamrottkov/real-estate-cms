@@ -9,11 +9,7 @@ export default class Index extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
-              <h1>Hi people</h1>
-              <p>
-                This is an example site integrating Netlify’s form handling with
-                Gatsby
-              </p>
+
               <ul>
                 <li>
                   <Link to="/contact">Basic contact form</Link>
@@ -24,6 +20,7 @@ export default class Index extends React.Component {
               </ul>
 
               <h2>Troubleshooting</h2>
+              
               <h3>Forms stop working after upgrading to Gatsby v2</h3>
               <p>
                 This can be caused by the offline-plugin.{' '}
