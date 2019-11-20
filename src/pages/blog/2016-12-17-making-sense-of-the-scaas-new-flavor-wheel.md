@@ -13,7 +13,7 @@ tags:
   - lorem
   - ipsum
 ---
-![flavor wheel](/img/home1.jpg)
+![home](/img/home1.jpg)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elite, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Out of enim ad minim veniam, quis nostrud exercise ullamco laboris nisi ut aliquip ex ea commodo consequat. velit esse cillum dolore eu fugiat nulla pariatur.
 
