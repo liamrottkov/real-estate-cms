@@ -13,12 +13,16 @@ export default class BlogIndexPage extends React.Component {
             backgroundImage: `url('/img/houses123.jpg')`,
           }}
         >
-          <h1
+        </div>
+        <h1
             className="has-text-weight-bold is-size-1"
             style={{
-              boxShadow:
-                'rgb(0, 255, 255) 0.5rem 0px 0px, rgb(0, 255, 255) -0.5rem 0px 0px',
-              backgroundColor: 'rgb(0, 255, 255)',
+              textAlign: "center",
+              position: "sticky",
+              top: 0,
+              // boxShadow:
+              //   'rgb(0, 255, 255) 0.5rem 0px 0px, rgb(0, 255, 255) -0.5rem 0px 0px',
+              backgroundColor: '#fff',
               color: 'black',
               lineHeight: '1',
               padding: '0.25em',
@@ -26,7 +30,6 @@ export default class BlogIndexPage extends React.Component {
           >
             Latest Stories
           </h1>
-        </div>
         <section className="section">
           <div className="container">
             <div className="content">

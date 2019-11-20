@@ -27,12 +27,17 @@ export const ProductPageTemplate = ({
         })`,
       }}
     >
-      <h2
+   
+    </div>
+    <h2
         className="has-text-weight-bold is-size-1"
         style={{
-          boxShadow:
-            'rgb(0, 255, 255) 0.5rem 0px 0px, rgb(0, 255, 255) -0.5rem 0px 0px',
-          backgroundColor: 'rgb(0, 255, 255)',
+          textAlign: "center",
+          position: "sticky",
+          top: 0,
+          // boxShadow:
+          //   'rgb(0, 255, 255) 0.5rem 0px 0px, rgb(0, 255, 255) -0.5rem 0px 0px',
+          backgroundColor: '#fff',
           color: 'black',
           lineHeight: '1',
           padding: '0.25em',
@@ -40,7 +45,6 @@ export const ProductPageTemplate = ({
       >
         {title}
       </h2>
-    </div>
     <section className="section section--gradient">
       <div className="container">
         <div className="section">

@@ -1,7 +1,5 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import github from '../img/github-icon.svg'
-import logo from '../img/emoji/favicon-32x32.png'
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -41,8 +39,8 @@ const Navbar = class extends React.Component {
       >
         <div className="container">
           <div className="navbar-brand">
-            <Link to="/" className="navbar-item" title="Logo">
-              <img src={logo} alt="Houses Emoji" style={{ }} />
+            <Link className="navbar-item" to="/">
+              <strong>Real Estate Solutions</strong>
             </Link>
             {/* Hamburger menu */}
             <div
@@ -60,6 +58,7 @@ const Navbar = class extends React.Component {
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
             <div className="navbar-start has-text-centered">
+              
               <Link className="navbar-item" to="/about">
                 About
               </Link>
@@ -78,14 +77,21 @@ const Navbar = class extends React.Component {
             </div>
             <div className="navbar-end has-text-centered">
               <a
-                className="navbar-item"
+                className="navbar-item nav-button"
+                href="https://github.com/liamrottkov/real-estate-cms"
+                target="_blank"
+                rel="noopener noreferrer"
+              > 
+                Residential
+              </a>
+
+              <a
+                className="navbar-item nav-button"
                 href="https://github.com/liamrottkov/real-estate-cms"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <span className="icon">
-                  <img src={github} alt="Github" />
-                </span>
+                Commercial
               </a>
             </div>
           </div>
