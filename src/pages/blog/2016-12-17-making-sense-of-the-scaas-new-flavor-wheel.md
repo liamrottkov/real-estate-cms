@@ -7,7 +7,7 @@ description: >-
   tempor incididunt ut labore et dolore magna aliqua. Out of enim ad minim
   veniam, quis nostrud exercise ullamco laboris nisi ut aliquip ex ea commodo
   consequat. velit esse cillum dolore eu fugiat nulla pariatur.
-featuredpost: false
+featuredpost: true
 featuredimage: /img/home2.jpg
 tags:
   - lorem
