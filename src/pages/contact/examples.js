@@ -19,7 +19,7 @@ export default class Index extends React.Component {
                 </li>
               </ul>
 
-              <h2>Troubleshooting</h2>
+              {/* <h2>Troubleshooting</h2>
               
               <h3>Forms stop working after upgrading to Gatsby v2</h3>
               <p>
@@ -37,7 +37,7 @@ export default class Index extends React.Component {
                   imorente/gatsby-netlify-form-example
                 </a>{' '}
                 for a working example.
-              </p>
+              </p> */}
             </div>
           </div>
         </section>
