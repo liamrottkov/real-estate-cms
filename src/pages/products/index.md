@@ -75,7 +75,7 @@ testimonials:
       tempor incididunt ut labore et dolore magna aliqua. Out of enim ad minim
       veniam, quis nostrud exercise ullamco laboris nisi ut aliquip ex ea
       commodo consequat. velit esse cillum dolore eu fugiat nulla pariatur.
-full_image: /img/home1.jpg
+full_image: /img/houses123.jpg
 pricing:
   heading: Pricing
   description: >-
@@ -85,11 +85,11 @@ pricing:
     sollicitudin nibh sit. Facilisi nullam vehicula ipsum a. Euismod elementum
     nisi quis eleifend quam adipiscing vitae proin.
   plans:
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+    - description: Lorem ipsum
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
+        - Lorem ipsum
+        - Lorem ipsum
+        - Lorem ipsum
       plan: Custom
       price: '??'
 ---
